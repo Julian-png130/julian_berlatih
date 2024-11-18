@@ -1,0 +1,15 @@
+
+.card{
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+    align-items: center;
+}
+.carousel-gmbr{
+    width: 100%;
+    object-fit: cover;
+    height: 545px;
+}
+.card{
+  margin-bottom: 100px;
+}
